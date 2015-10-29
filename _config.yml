@@ -1,0 +1,23 @@
+name: logosandmarks
+favicon: null
+layout_spectrum: 0.7025165758095682
+typography_spectrum: 0.5689463266171515
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3644130656030029
+  lightness: 0.36166492849588394
+  saturation: 0.9769132642541081
+  rhythmicContrast: 0.28124975063838065
+purpose: []
